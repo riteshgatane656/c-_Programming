@@ -1,1 +1,1 @@
-# c-_Programming
+This repository contains a collection of C++ programs that I practice regularly to enhance my programming knowledge, problem-solving ability, and understanding of object-oriented programming concepts.The aim of this repository is to build a strong foundation in C++, which is widely used in software development, competitive programming, system programming, and game development.
